@@ -1,10 +1,13 @@
 .gitsetup
+requests
+check_all
 .hidden/
 py-unittest
 pycode-test
 clearcache
 test-*
 *.sw*
+w3c_validator.py
 file.json
 *__pycache__/
 models/__pycache__/
